@@ -1,0 +1,1 @@
+Hello, my name is Parth. I have created a Spring Boot project using the MVC architecture. In this application, users can add, withdraw, and transfer money to another user. We use a PostgreSQL database to store login and registration details.
